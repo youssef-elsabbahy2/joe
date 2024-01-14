@@ -821,7 +821,7 @@ footer {
 /* media query */
 @media screen and (min-width: 300px) and (max-width: 767px) {
   .main-details {
-    gap: 10px;
+    gap: 60px;
   }
 
   .category {
