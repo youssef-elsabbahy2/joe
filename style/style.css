@@ -789,6 +789,8 @@ footer {
   height: 68px;
   background-color: rgba(123, 74, 226, 0.10);
   margin-top: 60px;
+  padding-left: 20px;
+  padding-right:20px;
 }
 
 .text-footer {
@@ -856,7 +858,7 @@ footer {
   }
 
   footer {
-    padding: 10px 20px;
+    padding-top: 10px ;
   }
 }
 
